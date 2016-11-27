@@ -1,1 +1,4 @@
 # darude-bot
+
+DARUDE BOT DEVELOPMENT
+YAKUSH LOH
